@@ -2,7 +2,7 @@
 Каталог игры на базе API RAWG.IO
 Приложение написано как образец.
 
-Стек: Android, kotlin, Retrofit2, Picasso, Material Desing
+Стек: kotlin, Retrofit2, Picasso, Material Design
 
 Скриншоты:
 
