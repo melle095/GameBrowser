@@ -1,0 +1,3 @@
+com.leonov.gamebrowser.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme

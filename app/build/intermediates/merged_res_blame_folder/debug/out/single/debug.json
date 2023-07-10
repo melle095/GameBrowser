@@ -1,0 +1,158 @@
+[
+    {
+        "merged": "com.leonov.gamebrowser.app-merged_res-46:/drawable_windows.png.flat",
+        "source": "com.leonov.gamebrowser.app-main-48:/drawable/windows.png"
+    },
+    {
+        "merged": "com.leonov.gamebrowser.app-merged_res-46:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.leonov.gamebrowser.app-main-48:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.leonov.gamebrowser.app-merged_res-46:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.leonov.gamebrowser.app-main-48:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.leonov.gamebrowser.app-merged_res-46:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.leonov.gamebrowser.app-pngs-41:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.leonov.gamebrowser.app-merged_res-46:/drawable_exceptional.png.flat",
+        "source": "com.leonov.gamebrowser.app-main-48:/drawable/exceptional.png"
+    },
+    {
+        "merged": "com.leonov.gamebrowser.app-merged_res-46:/drawable_android.png.flat",
+        "source": "com.leonov.gamebrowser.app-main-48:/drawable/android.png"
+    },
+    {
+        "merged": "com.leonov.gamebrowser.app-merged_res-46:/drawable_nintendoswitch.png.flat",
+        "source": "com.leonov.gamebrowser.app-main-48:/drawable/nintendoswitch.png"
+    },
+    {
+        "merged": "com.leonov.gamebrowser.app-merged_res-46:/layout_screenshot_item.xml.flat",
+        "source": "com.leonov.gamebrowser.app-main-48:/layout/screenshot_item.xml"
+    },
+    {
+        "merged": "com.leonov.gamebrowser.app-merged_res-46:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.leonov.gamebrowser.app-main-48:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.leonov.gamebrowser.app-merged_res-46:/drawable_meh.png.flat",
+        "source": "com.leonov.gamebrowser.app-main-48:/drawable/meh.png"
+    },
+    {
+        "merged": "com.leonov.gamebrowser.app-merged_res-46:/drawable_nintendo.png.flat",
+        "source": "com.leonov.gamebrowser.app-main-48:/drawable/nintendo.png"
+    },
+    {
+        "merged": "com.leonov.gamebrowser.app-merged_res-46:/drawable_skip.png.flat",
+        "source": "com.leonov.gamebrowser.app-main-48:/drawable/skip.png"
+    },
+    {
+        "merged": "com.leonov.gamebrowser.app-merged_res-46:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.leonov.gamebrowser.app-main-48:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.leonov.gamebrowser.app-merged_res-46:/drawable_apple.png.flat",
+        "source": "com.leonov.gamebrowser.app-main-48:/drawable/apple.png"
+    },
+    {
+        "merged": "com.leonov.gamebrowser.app-merged_res-46:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.leonov.gamebrowser.app-main-48:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.leonov.gamebrowser.app-merged_res-46:/menu_menu_main.xml.flat",
+        "source": "com.leonov.gamebrowser.app-main-48:/menu/menu_main.xml"
+    },
+    {
+        "merged": "com.leonov.gamebrowser.app-merged_res-46:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.leonov.gamebrowser.app-main-48:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.leonov.gamebrowser.app-merged_res-46:/mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "com.leonov.gamebrowser.app-main-48:/mipmap-anydpi-v33/ic_launcher.xml"
+    },
+    {
+        "merged": "com.leonov.gamebrowser.app-merged_res-46:/layout_activity_main.xml.flat",
+        "source": "com.leonov.gamebrowser.app-main-48:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.leonov.gamebrowser.app-merged_res-46:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.leonov.gamebrowser.app-main-48:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.leonov.gamebrowser.app-merged_res-46:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.leonov.gamebrowser.app-main-48:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.leonov.gamebrowser.app-merged_res-46:/drawable_playstation.png.flat",
+        "source": "com.leonov.gamebrowser.app-main-48:/drawable/playstation.png"
+    },
+    {
+        "merged": "com.leonov.gamebrowser.app-merged_res-46:/drawable_metacritic.png.flat",
+        "source": "com.leonov.gamebrowser.app-main-48:/drawable/metacritic.png"
+    },
+    {
+        "merged": "com.leonov.gamebrowser.app-merged_res-46:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.leonov.gamebrowser.app-main-48:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.leonov.gamebrowser.app-merged_res-46:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.leonov.gamebrowser.app-main-48:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.leonov.gamebrowser.app-merged_res-46:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.leonov.gamebrowser.app-main-48:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.leonov.gamebrowser.app-merged_res-46:/drawable_linux.png.flat",
+        "source": "com.leonov.gamebrowser.app-main-48:/drawable/linux.png"
+    },
+    {
+        "merged": "com.leonov.gamebrowser.app-merged_res-46:/layout_platform_item.xml.flat",
+        "source": "com.leonov.gamebrowser.app-main-48:/layout/platform_item.xml"
+    },
+    {
+        "merged": "com.leonov.gamebrowser.app-merged_res-46:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.leonov.gamebrowser.app-main-48:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.leonov.gamebrowser.app-merged_res-46:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.leonov.gamebrowser.app-main-48:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.leonov.gamebrowser.app-merged_res-46:/layout_fragment_first.xml.flat",
+        "source": "com.leonov.gamebrowser.app-main-48:/layout/fragment_first.xml"
+    },
+    {
+        "merged": "com.leonov.gamebrowser.app-merged_res-46:/drawable_xbox.png.flat",
+        "source": "com.leonov.gamebrowser.app-main-48:/drawable/xbox.png"
+    },
+    {
+        "merged": "com.leonov.gamebrowser.app-merged_res-46:/drawable_wiiugames.png.flat",
+        "source": "com.leonov.gamebrowser.app-main-48:/drawable/wiiugames.png"
+    },
+    {
+        "merged": "com.leonov.gamebrowser.app-merged_res-46:/xml_backup_rules.xml.flat",
+        "source": "com.leonov.gamebrowser.app-main-48:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.leonov.gamebrowser.app-merged_res-46:/layout_games_list_card_views.xml.flat",
+        "source": "com.leonov.gamebrowser.app-main-48:/layout/games_list_card_views.xml"
+    },
+    {
+        "merged": "com.leonov.gamebrowser.app-merged_res-46:/drawable_recommend.png.flat",
+        "source": "com.leonov.gamebrowser.app-main-48:/drawable/recommend.png"
+    },
+    {
+        "merged": "com.leonov.gamebrowser.app-merged_res-46:/navigation_nav_graph.xml.flat",
+        "source": "com.leonov.gamebrowser.app-main-48:/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "com.leonov.gamebrowser.app-merged_res-46:/xml_data_extraction_rules.xml.flat",
+        "source": "com.leonov.gamebrowser.app-main-48:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.leonov.gamebrowser.app-merged_res-46:/layout_fragment_second.xml.flat",
+        "source": "com.leonov.gamebrowser.app-main-48:/layout/fragment_second.xml"
+    }
+]

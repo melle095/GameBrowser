@@ -1,0 +1,7 @@
+com.leonov.gamebrowser.test.app-jetified-annotation-experimental-1.3.0-0 C:\Users\aleonov\.gradle\caches\transforms-3\2172435c5eb6cb102af349c52cfe0dd7\transformed\jetified-annotation-experimental-1.3.0\res
+com.leonov.gamebrowser.test.app-jetified-core-1.5.0-1 C:\Users\aleonov\.gradle\caches\transforms-3\fa364093748c76682d06886f244fc45f\transformed\jetified-core-1.5.0\res
+com.leonov.gamebrowser.test.app-androidTest-2 C:\Users\aleonov\IdeaProjects\GameBrowser\app\build\generated\res\resValues\androidTest\debug
+com.leonov.gamebrowser.test.app-androidTest-3 C:\Users\aleonov\IdeaProjects\GameBrowser\app\build\generated\res\rs\androidTest\debug
+com.leonov.gamebrowser.test.app-mergeDebugAndroidTestResources-4 C:\Users\aleonov\IdeaProjects\GameBrowser\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.leonov.gamebrowser.test.app-mergeDebugAndroidTestResources-5 C:\Users\aleonov\IdeaProjects\GameBrowser\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.leonov.gamebrowser.test.app-merged_res-6 C:\Users\aleonov\IdeaProjects\GameBrowser\app\build\intermediates\merged_res\debugAndroidTest
